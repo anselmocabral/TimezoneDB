@@ -1,0 +1,5 @@
+deploy/
+dist/
+docs/
+# node_modules/
+# **/*.js
