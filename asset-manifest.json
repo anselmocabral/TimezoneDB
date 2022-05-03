@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.398db408.css",
-    "main.js": "/static/js/main.bdb0eb4a.js",
-    "static/js/787.8979c708.chunk.js": "/static/js/787.8979c708.chunk.js",
-    "index.html": "/index.html",
-    "main.398db408.css.map": "/static/css/main.398db408.css.map",
-    "main.bdb0eb4a.js.map": "/static/js/main.bdb0eb4a.js.map",
-    "787.8979c708.chunk.js.map": "/static/js/787.8979c708.chunk.js.map"
+    "main.css": "/TimezoneDB/static/css/main.398db408.css",
+    "main.js": "/TimezoneDB/static/js/main.d6fabd7a.js",
+    "static/js/787.8979c708.chunk.js": "/TimezoneDB/static/js/787.8979c708.chunk.js",
+    "index.html": "/TimezoneDB/index.html",
+    "main.398db408.css.map": "/TimezoneDB/static/css/main.398db408.css.map",
+    "main.d6fabd7a.js.map": "/TimezoneDB/static/js/main.d6fabd7a.js.map",
+    "787.8979c708.chunk.js.map": "/TimezoneDB/static/js/787.8979c708.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.398db408.css",
-    "static/js/main.bdb0eb4a.js"
+    "static/js/main.d6fabd7a.js"
   ]
 }
